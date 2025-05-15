@@ -87,6 +87,7 @@ EXP NO:7 C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE D
 
 Aim:
 To write a C program to print ten space-separated integers in a single line denoting the frequency of each digit from 0 to 3.
+
 Algorithm:
 1.	Start
 2.	Declare char array a[50] outer loop for each digit from 0 to 3
