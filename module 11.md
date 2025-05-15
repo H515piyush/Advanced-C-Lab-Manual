@@ -47,6 +47,7 @@ Output:
 ![437306119-4e36cc21-dceb-48a3-b17c-38330d0340ac](https://github.com/user-attachments/assets/a3a59d07-bfcd-4747-9bba-43413d28f7d9)
 
 Result:
+
 Thus, the program  that create a function to find the greatest number is verified successfully.
 
 
@@ -105,6 +106,7 @@ Output:
 
 
 Result:
+
 Thus, the program to print the maximum values for the AND, OR and XOR comparisons
 is verified successfully.
 
@@ -165,6 +167,7 @@ Output:
 
 
 Result:
+
 Thus, the program to write the logic for the requests is verified successfully.
 
 
@@ -212,6 +215,7 @@ Output:
 
 
 Result:
+
 Thus, the program prints the sum of the integers in the array is verified successfully.
 
 
