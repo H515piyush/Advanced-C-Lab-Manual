@@ -1,6 +1,9 @@
 EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+
 Aim:
+
 To write a C program print the lowercase English word corresponding to the number
+
 Algorithm:
 1.	Start
 - Initialize an integer variable n.
@@ -81,6 +84,7 @@ Result:
 Thus, the program is verified successfully
  
 EXP NO:7 C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
+
 Aim:
 To write a C program to print ten space-separated integers in a single line denoting the frequency of each digit from 0 to 3.
 Algorithm:
@@ -136,7 +140,9 @@ Result:
 Thus, the program is verified successfully
 
 EXP NO:8 C PROGRAM TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
+
 Aim:
+
 To write a C program to print all of its permutations in strict lexicographical order.
 
 Algorithm:
@@ -245,8 +251,11 @@ Thus, the program is verified successfully
  
 EXP NO:9 C PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS
 SHOWN BELOW.
+
 Aim:
+
 To write a C program to print a pattern of numbers from 1 to n as shown below.
+
 Algorithm:
 1.	Start
 2.	Declare integer variables n, i, j, min
