@@ -1,9 +1,11 @@
 EXP NO:16 C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
 
 Aim:
+
 To write a C program to search a given element in the given linked list.
 
 Algorithm:
+
 1.	Define the structure for a node in a linked list.
 2.	Define the search function to find a specific character in the linked list.
 3.	Initialize the head of the linked list as needed.
@@ -48,6 +50,7 @@ Output:
 ![437301429-aeda7c89-6df7-4660-bb79-5d10d21df285](https://github.com/user-attachments/assets/bab84093-52f1-4f86-8c8a-c8a2fe2ae6a8)
 
 Result:
+
 Thus, the program to search a given element in the given linked list is verified successfully.
 
 
@@ -59,6 +62,7 @@ Aim:
 To write a C program to insert a node in a linked list.
 
 Algorithm:
+
 1.	Define the structure for a node in a linked list
 2.	Define the insert function to insert a new node with character data at the end of the linked list.
 3.	Initialize the head of the linked list as needed.
@@ -149,6 +153,7 @@ Aim:
 To write a C program to insert an element in doubly linked list
 
 Algorithm:
+
 1.	Create a new node (newNode) and allocate memory for it.
 2.	Set the data of the new node to the provided value.
 3.	If the list is empty, set the new node as the head.
@@ -185,11 +190,10 @@ Program:
 
 Output:
 
-
-
 ![437301928-ed7a6b06-fbcb-473d-9cce-26f0485e2f11](https://github.com/user-attachments/assets/c38e2574-e9cb-494b-b7c6-6b35ae5b7786)
 
 Result:
+
 Thus, the program to insert an element in doubly linked list is verified successfully.
 
 
@@ -249,14 +253,12 @@ Program:
 
 Output:
 
-
-
-
 ![437302307-6ac7446f-325d-4cc2-8aa2-bbb52b626fa9](https://github.com/user-attachments/assets/8f3f9680-ad41-4f99-8d2e-826c5f67ec37)
 
 
 
 Result:
+
 Thus, the function that deletes a given element from a linked list is verified successfully.
 
 
