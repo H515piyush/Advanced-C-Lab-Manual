@@ -38,12 +38,12 @@ Output:
 
 
 Result:
+
 Thus, the program to display stack elements using linked list is verified successfully. 
 
 
 
-EXP.NO 27: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING 
-LINKED LIST.
+EXP.NO 27: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING LINKED LIST.
 
 Aim:
 
@@ -79,6 +79,7 @@ Output:
 ![437307774-edde0fba-5b7e-4521-bc6a-3b66b304543d](https://github.com/user-attachments/assets/3068daed-dfb2-45da-b97e-981059a2fdc6)
 
 Result:
+
 Thus, the program to pop an element from the given stack using liked list is verified successfully.
 
  
@@ -130,6 +131,7 @@ Output:
 
 
 Result:
+
 Thus, the program to display queue elements using linked list is verified successfully.
 
 
@@ -177,6 +179,7 @@ Output:
 
 
 Result:
+
 Thus, the program to insert elements in queue using linked list is verified successfully.
 
 
