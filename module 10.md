@@ -1,4 +1,4 @@
-EXP NO:16 C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
+EXP NO:4A C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
 
 Aim:
 
@@ -55,7 +55,7 @@ Thus, the program to search a given element in the given linked list is verified
 
 
  
-EXP NO:17  PROGRAM TO INSERT A NODE IN A LINKED LIST.
+EXP NO:4B  PROGRAM TO INSERT A NODE IN A LINKED LIST.
 
 Aim:
 
@@ -102,7 +102,7 @@ Thus, the program to insert a node in a linked list is verified successfully.
 
 
  
-EXP NO:18 C PROGRAM TO TRAVERSE A DOUBLY LINKED LIST
+EXP NO:4C C PROGRAM TO TRAVERSE A DOUBLY LINKED LIST
 
 Aim:
 
@@ -146,7 +146,7 @@ Thus, the program to traverse a doubly linked list is verified successfully.
 
 
 
-EXP NO:19 C PROGRAM TO INSERT AN ELEMENT IN DOUBLY LINKED LIST
+EXP NO:4D C PROGRAM TO INSERT AN ELEMENT IN DOUBLY LINKED LIST
 
 Aim:
 
@@ -199,7 +199,7 @@ Thus, the program to insert an element in doubly linked list is verified success
 
 
 
-EXP NO:20 C FUNCTION TO DELETE A GIVEN ELEMENT IN THE GIVEN LINKED LIST
+EXP NO:4E C FUNCTION TO DELETE A GIVEN ELEMENT IN THE GIVEN LINKED LIST
 
 Aim:
 
