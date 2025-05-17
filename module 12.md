@@ -1,6 +1,6 @@
 
 
-EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
+EXP NO 6A: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 
 Aim:
 
@@ -43,7 +43,7 @@ Thus, the program to display stack elements using linked list is verified succes
 
 
 
-EXP.NO 27: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING LINKED LIST.
+EXP.NO 6B: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING LINKED LIST.
 
 Aim:
 
@@ -83,7 +83,7 @@ Result:
 Thus, the program to pop an element from the given stack using liked list is verified successfully.
 
  
-EXP NO:28 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING LINKED LIST.
+EXP NO:6C C PROGRAM TO DISPLAY QUEUE ELEMENTS USING LINKED LIST.
 
 Aim:
 
@@ -136,7 +136,7 @@ Thus, the program to display queue elements using linked list is verified succes
 
 
  
-EXP NO:29 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING LINKED LIST
+EXP NO:6D C PROGRAM TO INSERT ELEMENTS IN QUEUE USING LINKED LIST
 
 Aim:
 
@@ -184,7 +184,7 @@ Thus, the program to insert elements in queue using linked list is verified succ
 
 
 
-EXP NO:30 C FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
+EXP NO:6E C FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
 
 
 Aim:
